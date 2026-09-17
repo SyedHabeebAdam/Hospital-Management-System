@@ -65,7 +65,7 @@ CREATE TABLE `his_admin` (
 --
 
 INSERT INTO `his_admin` (`ad_id`, `ad_fname`, `ad_lname`, `ad_email`, `ad_pwd`, `ad_dpic`) VALUES
-(1, 'System', 'Administrator', 'admin@mail.com', '4c7f5919e957f354d57243d37f223cf31e9e7181', 'doc-icon.png');
+(1, 'System', 'Administrator', 'admin@mail.com', 'admin123', 'doc-icon.png');
 
 -- --------------------------------------------------------
 
